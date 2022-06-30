@@ -1,1 +1,1 @@
-# Java-DSA-Bootcamp-Notes
+# Java DSA Bootcamp Notes
